@@ -1,0 +1,8 @@
+DataSet                   t hill  AvgOfitrHill  AvgMakespanHill  MinMakespanHill  AvgitrSimu  AvgMakespansimu  MinMakespansimu
+
+Carlier 7x7 instance.txt   49		564.80		9617.00 	 8731 	  991		9149.00 	 8243
+Carlier 8x9 instance.txt   81		2722.60		10828.80 	 9742 	  991		11343.20 	10086
+Carlier 11x5 instance.txt   25		230.40		8869.00 	 8482 	  991		9197.40 	 8724
+Carlier 14x4 instance.txt   16		85.40		10903.20 	 9991 	  991		10355.20 	 9818
+Reeves 20x5 type C.txt     25		294.00		1586.40 	 1522 	  991		1555.60 	 1430
+Reeves 30x10 type C.txt   100		2320.80		2617.00 	 2469 	  991		2594.60 	 2421

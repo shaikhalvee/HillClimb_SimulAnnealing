@@ -121,4 +121,5 @@ def main():
         outFile.write('{0:24s}  {1:3d}\t\t{2:5.2f}\t\t{3:5.2f} \t{4:5d} \t{5:5d}\t\t{6:5.2f} \t{7:5d}\n'.format(file,len(sequence)**2,AvgHillItr/L,AvgHillMakeSpan/L,minHillMakeSpan,countSim,AvgSimuMakeSpan/L,minSimuMakeSpan))
     outFile.close()
     
-main()
+if __name__ == '__main__':
+	main()
